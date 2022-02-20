@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lev
+- 👀 I’m work in LITSLINK
+- 🌱 Now i am learning python🐍
+- 💞️ I am looking for employees in my company
+- 📫 lev.volevskyi@litslink.com
